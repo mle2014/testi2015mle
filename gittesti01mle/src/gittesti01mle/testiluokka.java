@@ -7,7 +7,8 @@ public class testiluokka {
 
 	public static void main(String[] args) {
 		System.out.println("heippa");
-		
+		System.out.println("Mika was here");
+		System.out.println("Petteri was here also");
 		
 	}
 
