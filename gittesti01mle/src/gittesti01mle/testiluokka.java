@@ -6,6 +6,7 @@ public class testiluokka {
 		System.out.println("heippa");
 		System.out.println("Mika was here");
 		System.out.println("moi");
+		System.out.println("Petteri was here also");
 		
 	}
 
