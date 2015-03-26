@@ -11,7 +11,7 @@ public class testiluokka {
 		System.out.println("merge yritys");
 		System.out.println("merge yritys 2");
 		System.out.println("merge yritys 3");
-		
+		System.out.println("merge yritys 4");
 	}
 
 }
