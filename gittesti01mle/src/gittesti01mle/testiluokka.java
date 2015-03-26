@@ -10,6 +10,7 @@ public class testiluokka {
 		System.out.println("Petteri was here also");
 		System.out.println("merge yritys");
 		System.out.println("merge yritys 2");
+		System.out.println("merge yritys 3");
 		
 	}
 
