@@ -2,7 +2,9 @@
  * headeri on t‰‰ll‰
  */
 package gittesti01mle;
-
+/*
+ *@author miksa 
+ */
 public class testiluokka {
 
 	public static void main(String[] args) {
@@ -18,6 +20,9 @@ public class testiluokka {
 		System.out.println("merge yritys 3");
 		System.out.println("merge yritys 4");
 		System.out.println("merge yritys 5");
+		tulosta("Moro poro");
 	}
-
+	public static void tulosta(String teksti){
+		System.out.println(teksti);
+	}
 }
