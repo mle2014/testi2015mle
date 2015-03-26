@@ -17,6 +17,7 @@ public class testiluokka {
 		System.out.println("taas hajoaa jotain");
 		System.out.println("merge yritys 3");
 		System.out.println("merge yritys 4");
+		System.out.println("merge yritys 5");
 	}
 
 }
