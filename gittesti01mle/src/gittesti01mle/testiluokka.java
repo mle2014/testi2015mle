@@ -8,7 +8,7 @@ public class testiluokka {
 		System.out.println("moi");
 		System.out.println("Petteri was here also");
 		System.out.println("Petteri was here also");
-		
+		System.out.println("Mika was here again");
 	}
 
 }
